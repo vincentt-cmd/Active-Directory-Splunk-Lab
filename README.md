@@ -1,6 +1,6 @@
 # Active Directory / Splunk Project - March 26, 2025
 
-This is my first project!
+This is my first ever project!
 
 ## Objective
 
