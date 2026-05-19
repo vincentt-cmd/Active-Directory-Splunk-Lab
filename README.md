@@ -1,10 +1,11 @@
 # Active Directory / Splunk Project - March 26, 2025
 
-This is my first lab ever!
+This is my first project!
 
 ## Objective
 
-The objective of this project was to create a controlled environment for simulating and detecting cyber threats. The primary focus was on integrating Active Directory, Splunk as a Security Information and Event Management (SIEM) system, alongside Kali Linux and Atomic Red Team, to generate realistic attack scenarios and corresponding telemetry. This hands-on experience provided valuable experience in log analysis, threat detection, and penetration testing.
+The goal of this project was to build a small lab environment where I could simulate basic attack activity and practice detecting it through logs. I set up Active Directory, connected it to Splunk for log collection and analysis, and used Kali Linux and Atomic Red Team to generate security events.
+This project helped me get hands-on experience with Active Directory, SIEM workflows, log analysis, and basic threat detection.
 
 ### Skills Learned
 
