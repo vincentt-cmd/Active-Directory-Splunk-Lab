@@ -17,10 +17,10 @@ This project helped me get hands-on experience with Active Directory, SIEM workf
 
 ### Tools Used
 
-- **Splunk** as a Security Information and Event Management (SIEM) system for log ingestion, analysis, and threat detection.
-- **Active Directory** for setting up and managing user accounts, permissions, and network resources.
-- **Kali Linux** for conducting penetration testing and simulating attack scenarios.
-- **Atomic Red Team** for generating real-world attack techniques and simulating adversary tactics.
+- **Splunk:** Collected, searched, and analyzed logs as a SIEM
+- **Active Directory:** Managed users, permissions, and domain resources
+- **Kali Linux:** Used for testing and simulating attacker activity
+- **Atomic Red Team:** Ran predefined attack simulations based on real-world techniques
 
 ## Steps
 Refer to the files within this repository for the steps I took (separated in parts).
