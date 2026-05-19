@@ -9,10 +9,11 @@ This project helped me get hands-on experience with Active Directory, SIEM workf
 
 ### Skills Learned
 
-- Proficiency in integrating and managing Active Directory within a controlled lab environment.
-- Practical application of a SIEM (Splunk) for log analysis and threat detection in a SIEM system.
-- Experience in generating and simulating attack scenarios using Kali Linux and Atomic Red Team.
-- Ability to analyze security event logs and identify anomalies.
+- Set up and managed an Active Directory lab environment
+- Used Splunk to ingest and analyze security logs
+- Generated attack-related telemetry with Kali Linux and Atomic Red Team
+- Reviewed Windows event logs for suspicious activity
+- Practiced identifying patterns, anomalies, and potential indicators of compromise
 
 ### Tools Used
 
