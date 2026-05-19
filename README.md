@@ -23,4 +23,4 @@ This project helped me get hands-on experience with Active Directory, SIEM workf
 - **Atomic Red Team:** Ran predefined attack simulations based on real-world techniques
 
 ## Steps
-Refer to the files within this repository for the steps I took (separated in parts).
+The full walkthrough is split into separate parts within this repository.
